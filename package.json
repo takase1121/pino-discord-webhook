@@ -5,8 +5,9 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
+    "centra": "^2.4.0",
     "chalk": "^4.0.0",
-    "got": "^10.7.0",
+    "dot": "^1.1.3",
     "pump": "^3.0.0",
     "split2": "^3.1.1",
     "through2": "^3.0.1",
